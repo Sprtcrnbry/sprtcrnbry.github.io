@@ -6,10 +6,10 @@
 name: Sprite
 
 # Short bio or description (displayed in the header)
-description: just another Tech Weeb going around the internet
+description: just another tech weeb going all around the internet
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://sprt.my.id/20210414_063140.jpg
+avatar: https://avatars.githubusercontent.com/u/17063780
 
 #
 # Flags below are optional
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://sprt.my.id
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
