@@ -6,15 +6,15 @@ date: 2021-09-13 15:54
 
 Setelah lama tidak memposting apapun, saya kembali dengan tutorial cara men-dualboot Windows 10 & Linux Mint XFCE di komputer berbasis UEFI.
 
-Pertama, download dulu ISO Linux Mint nya: https://linuxmint.com/ ![image-20210913162340810](/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913162340810.png)
+Pertama, download dulu ISO Linux Mint nya: [https://linuxmint.com/](https://linuxmint.com/) ![Screenshot_20210913_162325.webp](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162325.webp)
 
-Pilih XFCE: ![image-20210913162419689](/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913162419689.png)
+Pilih XFCE: ![Screenshot_20210913_162416](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162416.webp)
 
-Cari dan pilih Indonesia: ![image-20210913162630298](/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913162630298.png)
+Cari dan pilih Indonesia: ![Screenshot_20210913_162624](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162624.webp)
 
 Dan ketika sudah selesai, tulis ISOnya ke USB Flash Drive. Nanti saya akan update lagi dengan cara menggunakan Rufus (di Windows) dan Ventoy (di Windows dan Linux).
 
-Ketika sudah, restart sistem dan masuk ke boot menu (silahkan cari di Google untuk masuk BIOS/boot menu komputernya): ![image-20210913163157321](/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163157321.png)
+Ketika sudah, restart sistem dan masuk ke boot menu (silahkan cari di Google untuk masuk BIOS/boot menu komputernya): ![Screenshot_20210913_163153](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_163153.webp)
 
 Pilih USB Flash Drive berisi Linux Mint tadi. ![image-20210913163248600](/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163248600.png)
 

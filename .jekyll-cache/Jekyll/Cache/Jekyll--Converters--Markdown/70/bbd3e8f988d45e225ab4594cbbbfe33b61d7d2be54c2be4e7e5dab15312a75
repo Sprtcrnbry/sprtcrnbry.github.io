@@ -1,0 +1,31 @@
+I"�<p>Setelah lama tidak memposting apapun, saya kembali dengan tutorial cara men-dualboot Windows 10 &amp; Linux Mint XFCE di komputer berbasis UEFI.</p>
+
+<p>Pertama, download dulu ISO Linux Mint nya: <a href="https://linuxmint.com/">https://linuxmint.com/</a> <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162325.webp" alt="Screenshot_20210913_162325.webp" /></p>
+
+<p>Pilih XFCE: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162416.webp" alt="Screenshot_20210913_162416.webp" /></p>
+
+<p>Cari dan pilih Indonesia: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162624.webp" alt="Screenshot_20210913_162624.webp" /></p>
+
+<p>Dan ketika sudah selesai, tulis ISOnya ke USB Flash Drive. Nanti saya akan update lagi dengan cara menggunakan Rufus (di Windows) dan Ventoy (di Windows dan Linux).</p>
+
+<p>Ketika sudah, restart sistem dan masuk ke boot menu (silahkan cari di Google untuk masuk BIOS/boot menu komputernya): <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163157321.png" alt="image-20210913163157321" /></p>
+
+<p>Pilih USB Flash Drive berisi Linux Mint tadi. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163248600.png" alt="image-20210913163248600" /></p>
+
+<p>Pilih “Start Linux Mint 20.2 Xfce 64-bit” (atau sesuaikan dengan versi yang anda download). <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163544759.png" alt="image-20210913163544759" /></p>
+
+<p>Tunggu sampai sistem menyala, kemudian klik dua kali ikon Install Linux Mint di desktop: <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163700769.png" alt="image-20210913163700769" /></p>
+
+<p><img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163729190.png" alt="image-20210913163729190" /></p>
+
+<p>Pilih “Continue”. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163925247.png" alt="image-20210913163925247" /></p>
+
+<p>Sesuaikan layout keyboard anda. Jika tidak yakin, pilih “Detect Keyboard Layout”. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913163940938.png" alt="image-20210913163940938" /></p>
+
+<p>Pilih “Install multimedia codecs” dan “Continue”. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913165255645.png" alt="image-20210913165255645" /></p>
+
+<p>Pilih “Install Linux Mint alongside Windows Boot Manager”, dan pilih “Continue”. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913165446128.png" alt="image-20210913165446128" /></p>
+
+<p>Sesuaikan tempat penyimpanan yang ingin di bagi dengan Linux. <img src="/home/hitomi/Public/sprtcrnbry.github.io/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/image-20210913165820393.png" alt="image-20210913165820393" /></p>
+
+:ET
