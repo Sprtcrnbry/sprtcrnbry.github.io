@@ -1,0 +1,47 @@
+I"�<p>Setelah lama tidak memposting apapun, saya kembali dengan tutorial cara men-dualboot Windows &amp; Linux Mint XFCE. Di sini saya menggunakan Windows 10 dalam mode UEFI dan Linux Mint 20.2 Uma ber-desktop XFCE.</p>
+
+<p>Pertama, download dulu ISO Linux Mint nya: <a href="https://linuxmint.com/">https://linuxmint.com/</a> <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162325.webp" alt="Screenshot_20210913_162325.webp" /></p>
+
+<p>Pilih desktop yang diinginkan (saya disini menggunakan XFCE): <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162416.webp" alt="Screenshot_20210913_162416" /></p>
+
+<p>Cari dan pilih Indonesia: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_162624.webp" alt="Screenshot_20210913_162624" /></p>
+
+<p>Dan ketika sudah selesai, buat bootable ISOnya ke USB Flash Drive. Bisa menggunakan <a href="">Rufus</a> (di Windows) dan <a href="">Ventoy</a> (di Windows dan Linux).</p>
+
+<p>Kedua, Apa itu UEFI? Dikutip dari Wikipedia bahasa Inggris (baca selengkapnya di <a href="https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface">https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface</a>):</p>
+<blockquote>
+  <p>The Unified Extensible Firmware Interface (UEFI) is a publicly available specification that defines a software interface between an operating system and platform firmware. UEFI replaces the legacy Basic Input/Output System (BIOS) firmware interface originally present in all IBM PC-compatible personal computers, with most UEFI firmware implementations providing support for legacy BIOS services. UEFI can support remote diagnostics and repair of computers, even with no operating system installed.</p>
+</blockquote>
+
+<p>Bagaimana cara mengetahui komputer kita menggunakan UEFI atau tidak? Jika anda menggunakan Windows 7 kebawah, kemungkinan besar anda menggunakan BIOS. Tekan tombol Win+R dan ketik “msinfo32” dan tekan enter: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_191329.webp" alt="Screenshot_20210913_191329" /></p>
+
+<p><img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_190941.webp" alt="Screenshot_20210913_190941" /></p>
+
+<p>Ketika sudah, restart sistem dan masuk ke boot menu (silahkan cari di Google untuk masuk BIOS/boot menu komputernya): <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_163153.webp" alt="Screenshot_20210913_163153" /></p>
+
+<p>Pilih USB Flash Drive berisi Linux Mint tadi. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_163245.webp" alt="Screenshot_20210913_163245" /></p>
+
+<p>Pilih “Start Linux Mint 20.2 Xfce 64-bit” (atau sesuaikan dengan versi yang anda download). <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_163542.webp" alt="Screenshot_20210913_163542" /></p>
+
+<p>Tunggu sampai sistem menyala, kemudian klik dua kali ikon Install Linux Mint di desktop: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-39-28.webp" alt="Screenshot_2021-09-13_12-39-28" /></p>
+
+<p>Pilih bahasa yang ingin digunakan, disini saya menggunakan Bahasa Indonesia: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-44-40.webp" alt="Screenshot_2021-09-13_12-44-40" /></p>
+
+<p>Tekan “Lanjutkan”. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-47-45.webp" alt="Screenshot_2021-09-13_12-47-45" /></p>
+
+<p>Sesuaikan layout keyboard anda. Jika tidak yakin, pilih “Deteksi Susunan Papan Ketik”. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-52-32.webp" alt="Screenshot_2021-09-13_12-52-32" /></p>
+
+<p>Pilih “Pasang codec-codec multimedia” dan tekan “Lanjutkan”. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-55-19.webp" alt="Screenshot_2021-09-13_12-55-19" /></p>
+
+<p>Pilih “Pasang Linux Mint bersama Windows Boot Manager”, dan tekan “Lanjutkan”. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_12-58-22.webp" alt="Screenshot_2021-09-13_12-58-22" /></p>
+
+<p>Sesuaikan tempat penyimpanan yang ingin di bagi dengan Linux, disini saya menggunakan setengah dari tempat yang tersisa. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_13-02-02.webp" alt="Screenshot_2021-09-13_13-02-02" /></p>
+
+<p><img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_13-06-11.webp" alt="Screenshot_2021-09-13_13-06-11" /></p>
+
+<p>Tekan “Lanjutkan”, Kemudian pilih zona waktu anda, disini saya memilih Jakarta: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_13-25-27.webp" alt="Screenshot_2021-09-13_13-25-27" /></p>
+
+<p>Masukkan Nama dan Password masuk anda: <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_20-25-59.webp" alt="Screenshot_2021-09-13_20-25-59" /></p>
+
+<p>Jika sudah, anda hanya perlu menunggu sekitar 10-15 menit. Boleh ditinggal makan, ngopi, ngeteh, ngemil, ataupun rebahan. <img src="/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_2021-09-13_20-25-59.webp" alt="Screenshot_2021-09-13_20-25-59" /></p>
+:ET

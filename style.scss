@@ -252,11 +252,20 @@ nav {
 }
 
 .post {
+  box-sizing: border-box;
+
+  a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $darkGray;
+    color: $lightGray;
     font-size: 22px;
     font-style: italic;
   }

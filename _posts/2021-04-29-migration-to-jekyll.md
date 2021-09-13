@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migration to Jekyll
-date: 2021-04-29 17:28
+date: 2021-04-29 17:28+0700
 ---
 
 I have migrated this website to Jekyll. This website will be a true blog from now on!
@@ -9,4 +9,4 @@ I have migrated this website to Jekyll. This website will be a true blog from no
 I converted the current website layout into a Jekyll Theme, spent hours testing it out, and now its complete!
 
 Heres a peek of the new layout:
-![Screenshot_20210429_173439.png](/images/Screenshot_20210429_173439.png)
+![Screenshot_20210429_173439](/images/Screenshot_20210429_173439.webp)
