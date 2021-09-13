@@ -58,3 +58,7 @@ Selamat!, jika anda melihat layar ini, berarti Linux Mint telah berhasil di inst
 ![Screenshot_20210913_210535](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Screenshot_20210913_210535.webp)
 
 ![Cuplikan Layar_2021-09-13_21-07-16](/images/2021-09-13-tutorial-cara-dualboot-uefi-windows-10-linux-mint-xfce/Cuplikan Layar_2021-09-13_21-07-16.webp)
+
+Jika anda memiliki pertanyaan tentang Linux, bisa bertanya di Telegram [Belajar Linux](https://t.me/belajarlinuxbareng).
+
+Seperti itulah cara dualboot Windows dengan Linux Mint XFCE. Sekian dari saya Sprite, semoga post ini dapat membantu anda men-dualboot Linux.
