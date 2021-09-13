@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [ID] Tutorial Cara Dualboot UEFI Windows 10 & Linux Mint XFCE
+title: (ID) Tutorial Cara Dualboot UEFI Windows 10 & Linux Mint XFCE
 date: 2021-09-13 15:54
 ---
 
