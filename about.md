@@ -29,8 +29,8 @@ none (broke as hell)
 
 #### Laptop(s):
 
-HP 14s-cf3076TU (daily driver)  
-macOS Big Sur 11.6 & Windows 11  
+HP 14s-cf3076TU / MacBook Air (Retina, 13-inch, 2020) (daily driver)  
+OpenCore macOS Big Sur 11.6 ( ) & Windows 11 Build 22468.1000  
 Intel Core i3-1005G1 (4x 1.2GHz up to 3.4GHz, 2 Cores 4 Threads)  
 8GB DDR4 RAM (Micron Dual 2x 4GB 3200MT/s, 2 SO-DIMM slots)  
 256GB SSD (SK hynix BC511 NVMe 1.3 PCIe Gen3x4)  
