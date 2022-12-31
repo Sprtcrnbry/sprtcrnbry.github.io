@@ -38,16 +38,16 @@ none (broke as hell)
 
 #### Laptop(s):
 
-HP Elitebook 2170p (daily driver)
-Windows 10 Enterprise LTSC 2021 (21H2)
-Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)
-8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)
-500GB HDD (Hitachi SATA2 7200rpm)
-Intel HD 4000 (Ivy Bridge)
+HP Elitebook 2170p (daily driver)  
+Windows 10 Enterprise LTSC 2021 (21H2)  
+Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)  
+8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)  
+500GB HDD (Hitachi SATA2 7200rpm)  
+Intel HD 4000 (Ivy Bridge)  
 
-Acer Aspire 4736 (soon)
-WIP
-TBD
+Acer Aspire 4736 (soon)  
+WIP  
+TBD  
 
 ~~HP 14s-cf3076TU [SMBIOS: MacBook Air (Retina, 13-inch, 2020)] (daily driver)~~ (sold)  
 ~~OpenCore macOS Big Sur 11.6 (20G165)~~  
