@@ -16,7 +16,7 @@ Minecraft
 
 #### Phone(s):
 
-Samsung Galaxy A30 (~~secondary~~, bootloader unlocked) (now used as daily driver)  
+Samsung Galaxy A30 (~~secondary~~ now used as daily driver, bootloader unlocked)  
 Project Fluid 1.7 (Android 11)  
 Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
 4GB LPDDR4X RAM  
