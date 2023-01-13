@@ -16,14 +16,6 @@ Minecraft
 
 #### Phone(s):
 
-~~Samsung Galaxy M31 (daily driver, bootloader unlocked)~~ (sold)  
-~~One UI 3.1 (Android 11 - full One UI port from A51)~~  
-~~Exynos 9611 (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)~~  
-~~6GB LPDDR4X RAM~~  
-~~128GB UFS (2.1)~~  
-~~Mali-G72 MP3~~  
-~~6000mAh Li-Po~~
-
 Samsung Galaxy A30 (~~secondary~~, bootloader unlocked) (now used as daily driver)  
 Project Fluid 1.7 (Android 11)  
 Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
@@ -32,11 +24,20 @@ Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)
 Mali-G71 MP2  
 4000mAh Li-Po
 
+~~Samsung Galaxy M31 (daily driver, bootloader unlocked)~~ (sold)  
+~~One UI 3.1 (Android 11 - full One UI port from A51)~~  
+~~Exynos 9611 (4x2.3 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53)~~  
+~~6GB LPDDR4X RAM~~  
+~~128GB UFS (2.1)~~  
+~~Mali-G72 MP3~~  
+~~6000mAh Li-Po~~
+
 #### PC(s):
 
 none (broke as hell)
 
 #### Laptop(s):
+
 Acer Aspire 4736 (soon)  
 WIP  
 TBD  
