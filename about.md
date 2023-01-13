@@ -17,7 +17,7 @@ Minecraft
 #### Phone(s):
 
 Samsung Galaxy A30 (~~secondary~~ now used as daily driver, bootloader unlocked)  
-One UI 4.1 S10e port (Android 121)  
+One UI 4.1 S10e port (Android 12)  
 Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
 4GB LPDDR4X RAM  
 64GB eMMC (5.1)  
