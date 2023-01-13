@@ -37,17 +37,16 @@ Mali-G71 MP2
 none (broke as hell)
 
 #### Laptop(s):
-
-HP Elitebook 2170p (daily driver)  
-Windows 10 Enterprise LTSC 2021 (21H2)  
-Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)  
-8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)  
-500GB HDD (Hitachi SATA2 7200rpm)  
-Intel HD 4000 (Ivy Bridge)  
-
 Acer Aspire 4736 (soon)  
 WIP  
 TBD  
+
+~~HP Elitebook 2170p (daily driver)~~ (sold)  
+~~Arch Linux~~  
+~~Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)~~  
+~~8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)~~  
+~~240GB SSD (Pioneer APS-SL3N SATA3)~~  
+~~Intel HD 4000 (Ivy Bridge)~~  
 
 ~~HP 14s-cf3076TU [SMBIOS: MacBook Air (Retina, 13-inch, 2020)] (daily driver)~~ (sold)  
 ~~OpenCore macOS Big Sur 11.6 (20G165)~~  
@@ -56,7 +55,7 @@ TBD
 ~~256GB SSD (SK hynix BC511 NVMe 1.3 PCIe Gen3x4)~~  
 ~~Intel UHD Graphics/Iris Plus Graphics G1 (Ice Lake)~~
 
-~~Lenovo ideapad 300S-11IBR (used as low power server)~~ (pending)  
+~~Lenovo ideapad 300S-11IBR (used as low power server)~~ (sold)  
 ~~Debian 11 w/ XFCE~~  
 ~~Intel Celeron N3050 (2x 1.6GHz up to 2.16GHz)~~  
 ~~2GB DDR3 RAM (Micron Single 2GB 1600MT/s, soldered)~~  
