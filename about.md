@@ -7,8 +7,9 @@ permalink: /about/
 ## About me
 ### Things i like
 
-Linux  
-Anything related to Technology  
+[Sui-chan ☄️](https://www.instagram.com/itssprite.irl/)  
+Linux and Sysadmin  
+Technology Enthusiast  
 Japanese culture (big weeb energy)  
 Minecraft  
 
@@ -16,8 +17,16 @@ Minecraft
 
 #### Phone(s):
 
-Samsung Galaxy A30 (~~secondary~~ now used as daily driver, bootloader unlocked)  
-One UI 4.1 S10e port (Android 12)  
+Xiaomi Redmi Note 7 (daily driver, bootloader unlocked)  
+DerpFest (Android 13)  
+Snapdragon 660 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
+4GB LPDDR4X RAM  
+64GB eMMC (5.1)  
+Adreno 512  
+4000mAh Li-Po (replaced)
+
+Samsung Galaxy A30 (secondary, bootloader unlocked)  
+One UI 5.1 S22 port (Android 13)  
 Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
 4GB LPDDR4X RAM  
 64GB eMMC (5.1)  
@@ -32,22 +41,23 @@ Mali-G71 MP2
 ~~Mali-G72 MP3~~  
 ~~6000mAh Li-Po~~
 
-#### PC(s):
+#### PC/Laptop(s):
 
-none (broke as hell)
+i dont have any pc yet but i am saving for one
 
-#### Laptop(s):
+HP 240 G5 (daily driver)  
+Windows 10 Enterprise LTSB 2016  
+Intel Core i3-6006U (4x2.0GHz no turbo, 2 Cores 4 Threads)  
+8GB DDR4 RAM (SK hynix Dual 2x4GB 2666MT/s, 2 SO-DIMM slots)  
+240GB SSD (Pioneer APS-SL3N SATA3)  
+Intel HD 520 (Skylake)  
 
-Acer Aspire 4736 (soon)  
-WIP  
-TBD  
-
-~~HP Elitebook 2170p (daily driver)~~ (sold)  
-~~Arch Linux~~  
-~~Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)~~  
-~~8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)~~  
-~~240GB SSD (Pioneer APS-SL3N SATA3)~~  
-~~Intel HD 4000 (Ivy Bridge)~~  
+HP Elitebook 2170p (without screen, used as desktop/server at home)  
+Windows 10 Enterprise LTSB 2016  
+Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)  
+8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)  
+500GB HDD (Hitachi?)  
+Intel HD 4000 (Ivy Bridge)  
 
 ~~HP 14s-cf3076TU [SMBIOS: MacBook Air (Retina, 13-inch, 2020)] (daily driver)~~ (sold)  
 ~~OpenCore macOS Big Sur 11.6 (20G165)~~  
