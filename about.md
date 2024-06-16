@@ -17,21 +17,21 @@ Minecraft
 
 #### Phone(s):
 
-Xiaomi Redmi Note 7 (daily driver, bootloader unlocked)  
+~~Xiaomi Redmi Note 7 (daily driver, bootloader unlocked)  
 DerpFest (Android 13)  
 Snapdragon 660 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
 4GB LPDDR4X RAM  
 64GB eMMC (5.1)  
 Adreno 512  
-4000mAh Li-Po (replaced)
+4000mAh Li-Po (replaced)~~
 
-Samsung Galaxy A30 (secondary, bootloader unlocked)  
+~~Samsung Galaxy A30 (secondary, bootloader unlocked)  
 One UI 5.1 S22 port (Android 13)  
 Exynos 7904 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
 4GB LPDDR4X RAM  
 64GB eMMC (5.1)  
 Mali-G71 MP2  
-4000mAh Li-Po
+4000mAh Li-Po~~
 
 ~~Samsung Galaxy M31 (daily driver, bootloader unlocked)~~ (sold)  
 ~~One UI 4.1 (Android 12 - full One UI port from S20)~~  
@@ -43,17 +43,15 @@ Mali-G71 MP2
 
 #### PC/Laptop(s):
 
-i dont have any pc yet but i am saving for one
-
-HP 240 G5 (daily driver)  
-Windows 10 Enterprise LTSB 2016  
-Intel Core i3-6006U (4x2.0GHz no turbo, 2 Cores 4 Threads)  
-8GB DDR4 RAM (SK hynix Dual 2x4GB 2666MT/s, 2 SO-DIMM slots)  
-240GB SSD (Pioneer APS-SL3N SATA3)  
-Intel HD 520 (Skylake)  
+Axioo Mybook Hype 5 AMD (daily driver)  
+EndeavourOS/Arch Linux  
+AMD Ryzen 5 5500U (12x2.1GHz up to 4.0GHz, 6 Cores 12 Threads)  
+1yGB DDR4 RAM (Visipro & Nanya Dual 2x8GB 3200MT/s, 2 SO-DIMM slots)  
+256GB SSD (Visipro NVMe 1.3 PCIe Gen3x4)  
+Radeon Vega 7 (GCN 5)  
 
 HP Elitebook 2170p (without screen, used as desktop/server at home)  
-Windows 10 Enterprise LTSB 2016  
+Debian 12 CLI  
 Intel Core i5-3337U (4x1.8GHz up to 2.8GHz, 2 Cores 4 Threads)  
 8GB DDR3 RAM (SK hynix Dual 2x4GB 1333MT/s, 2 SO-DIMM slots)  
 500GB HDD (Hitachi?)  
