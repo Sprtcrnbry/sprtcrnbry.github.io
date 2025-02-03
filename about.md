@@ -16,6 +16,21 @@ Minecraft
 ### Rigs
 
 #### Phone(s):
+itel RS4 (daily driver)  
+itel OS 13.5 (Android 13)  
+Mediatek Helio G99 Ultimate (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)
+8GB LPDDR4X RAM  
+256GB UFS (2.1)  
+Mali-G57 MC2  
+5000mAh Li-ion
+
+Sony Xperia XZ2 SoftBank (secondary)  
+au ROM w/global mod (Android 10)  
+Snapdragon 845 (2x1.8 GHz Cortex-A73 & 6x1.6 GHz Cortex-A53)  
+4GB LPDDR4X RAM  
+64GB UFS (2.1)  
+Adreno 630  
+4000mAh Li-ion
 
 ~~Xiaomi Redmi Note 7 (daily driver, bootloader unlocked)  
 DerpFest (Android 13)  
@@ -44,9 +59,9 @@ Mali-G71 MP2
 #### PC/Laptop(s):
 
 Axioo Mybook Hype 5 AMD (daily driver)  
-EndeavourOS/Arch Linux  
+CachyOS/Arch Linux  
 AMD Ryzen 5 5500U (12x2.1GHz up to 4.0GHz, 6 Cores 12 Threads)  
-1yGB DDR4 RAM (Visipro & Nanya Dual 2x8GB 3200MT/s, 2 SO-DIMM slots)  
+16GB DDR4 RAM (Visipro & Nanya Dual 2x8GB 3200MT/s, 2 SO-DIMM slots)  
 256GB SSD (Visipro NVMe 1.3 PCIe Gen3x4)  
 Radeon Vega 7 (GCN 5)  
 
